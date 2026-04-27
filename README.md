@@ -1,6 +1,6 @@
 # **⚠️ NOTICE/DISCLAIMER ⚠️**
 
-This version of TerbiumOS will not be recieving any major updates anymore. It may only recieve updates for major security vulnerabilities (e.g. ablity to gain code execution on the backend). For the new version of Terbium, visit [this repo](https://github.com/terbiumos/web-v2)
+This version of TerbiumOS will not be receiving any major updates anymore. It may only receive updates for major security vulnerabilities (e.g. ability to gain code execution on the backend). For the new version of Terbium, visit [this repo](https://github.com/terbiumos/web-v2)
 
 # TerbiumOS web
 
@@ -22,7 +22,7 @@ Terbium is a webOS packed full of features and more!
 
 To Get started using Terbium what you want to do is either download the repository using the "code" button and downloading as a zip and extracting it or using `git clone https://github.com/terbiumOS/webOS`
 
-Next go into the directory which by defualt will be called webOS and run the following command in your Operating systems terminal which if your on windows you can type into the file explorer url and just type `cmd` or if your on linux/macos just right click the folder and select open in terminal and then run the commands below
+Next go into the directory which by default will be called webOS and run the following command in your Operating systems terminal which if you're on windows you can type into the file explorer url and just type `cmd` or if you're on linux/macos just right click the folder and select open in terminal and then run the commands below
 
 ```sh
 npm install && npm start
